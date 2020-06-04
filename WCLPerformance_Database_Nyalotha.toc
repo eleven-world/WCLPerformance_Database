@@ -1,0 +1,9 @@
+## Interface: 80300
+## Title: WCLPerformance_Database_Nyalotha
+## Notes: WCLPerformance_Database_Nyalotha
+## Author: Eleven
+## Version: 0.1.0
+## LoadOnDemand: 1
+## Dependencies: WCLPerformance
+
+record.lua

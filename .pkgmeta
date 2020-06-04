@@ -1,0 +1,6 @@
+package-as: WCLPerformance_Database_Nyalotha
+enable-nolib-creation: no
+
+ignore:
+  - README.md
+  - LICENSE
